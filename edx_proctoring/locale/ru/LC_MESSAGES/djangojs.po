@@ -1304,7 +1304,7 @@ msgstr "После того, как вы нажмёте "
 
 #: templates/timed_exam/entrance.html:15
 msgid "I am ready to start this timed exam,"
-msgstr "Я готов сдать этот экзамен."
+msgstr "Я готов приступить к работе,"
 
 #: templates/timed_exam/entrance.html:17
 msgid "you will have "
@@ -1312,7 +1312,7 @@ msgstr "вам будет необходимо "
 
 #: templates/timed_exam/entrance.html:17
 msgid " to complete and submit the exam."
-msgstr " завершить экзамен и отправить ответы на проверку."
+msgstr " завершить работу и отправить её на проверку."
 
 #: templates/timed_exam/entrance.html:21
 msgid ""
@@ -1321,11 +1321,11 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"Приступить к экзамену."
+"Я готов приступить к работе."
 
 #: templates/timed_exam/footer.html:3
 msgid "Can I request additional time to complete my exam?"
-msgstr "Могу ли я запросить дополнительное время на сдачу экзамена?"
+msgstr "Могу ли я запросить дополнительное время на выполнение работы?"
 
 #: templates/timed_exam/footer.html:4
 msgid ""
@@ -1345,7 +1345,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Вы действительно хотите отправить экзамен на проверку? "
+"Вы действительно хотите отправить работу на проверку? "
 
 #: templates/timed_exam/ready_to_submit.html:9
 msgid ""
@@ -1354,7 +1354,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Перед отправкой экзамена на проверку убедитесь, что вы нажали кнопку «Отправить» в каждом задании."
+"Перед отправкой работы на проверку убедитесь, что вы нажали кнопку «Отправить» в каждом задании."
 
 #: templates/timed_exam/ready_to_submit.html:14
 msgid ""
@@ -1363,7 +1363,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"После отправки ответов на проверку вы получите оценку за экзамен.\n"
+"После отправки работы на проверку вы получите оценку за экзамен.\n"
 " "
 
 #: templates/timed_exam/ready_to_submit.html:19
@@ -1373,7 +1373,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Да, отправить ответы на проверку.\n"
+"Да, отправить работу на проверку.\n"
 " "
 
 #: templates/timed_exam/ready_to_submit.html:25
@@ -1400,6 +1400,9 @@ msgid ""
 "                You have submitted your timed exam.\n"
 "            "
 msgstr ""
+"\n"
+"Вы отправили свою работу. \n"
+"    "
 
 #: templates/timed_exam/submitted.html:21
 msgid ""
@@ -1407,6 +1410,9 @@ msgid ""
 "                After the due date has passed, you can review the exam, but you cannot change your answers.\n"
 "            "
 msgstr ""
+"\n"
+"                По истечении установленного срока вы сможете просмотреть свою работу, но не сможете изменить свои ответы.\n"
+"            "
 
 #: utils.py:76
 #, python-brace-format
