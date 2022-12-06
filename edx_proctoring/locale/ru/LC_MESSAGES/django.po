@@ -1219,16 +1219,16 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"В подразделе «%(exam_name)s» вас ждёт экзамен, на выполнение которого вам даётся %(total_time)s\n"
+"В подразделе «%(exam_name)s» вас ждёт работа, на выполнение которой отводится %(total_time)s\n"
 " "
 
 #: templates/timed_exam/entrance.html:9
 msgid "This exam has a time limit associated with it."
-msgstr "На сдачу этого экзамена установлено ограничение по времени."
+msgstr "На сдачу этой работы установлено ограничение по времени."
 
 #: templates/timed_exam/entrance.html:11
 msgid "To pass this exam, you must complete the problems in the time allowed."
-msgstr "Вам необходимо дать ответ на все задачи в течение указанного времени."
+msgstr "Чтобы сдать эту работу, вы должны выполнить задачи за отведенное время."
 
 #: templates/timed_exam/entrance.html:13
 msgid "After you select "
@@ -1236,7 +1236,7 @@ msgstr "После того, как вы нажмёте "
 
 #: templates/timed_exam/entrance.html:15
 msgid "I am ready to start this timed exam,"
-msgstr "Я готов сдать этот экзамен."
+msgstr "Я готов приступить к работе"
 
 #: templates/timed_exam/entrance.html:17
 msgid "you will have "
@@ -1244,7 +1244,7 @@ msgstr "вам будет необходимо "
 
 #: templates/timed_exam/entrance.html:17
 msgid " to complete and submit the exam."
-msgstr " завершить экзамен и отправить ответы на проверку."
+msgstr " завершить работу и отправить ответы на проверку."
 
 #: templates/timed_exam/entrance.html:21
 msgid ""
@@ -1253,11 +1253,11 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"Приступить к экзамену."
+"Я готов приступить к работе"
 
 #: templates/timed_exam/footer.html:3
 msgid "Can I request additional time to complete my exam?"
-msgstr "Могу ли я запросить дополнительное время на сдачу экзамена?"
+msgstr "Могу ли я запросить дополнительное время на выполнение работы?"
 
 #: templates/timed_exam/footer.html:4
 msgid ""

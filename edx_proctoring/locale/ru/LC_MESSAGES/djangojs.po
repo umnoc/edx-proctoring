@@ -1239,7 +1239,7 @@ msgstr "После того, как вы нажмёте "
 
 #: templates/timed_exam/entrance.html:15
 msgid "I am ready to start this timed exam,"
-msgstr "Я готов сдать этот экзамен."
+msgstr "Я готов приступить к работе,"
 
 #: templates/timed_exam/entrance.html:17
 msgid "you will have "
@@ -1256,7 +1256,7 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"Приступить к экзамену."
+"Я готов приступить к работе."
 
 #: templates/timed_exam/footer.html:3
 msgid "Can I request additional time to complete my exam?"
@@ -1280,7 +1280,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Вы действительно хотите отправить экзамен на проверку? "
+"Вы действительно хотите отправить работу на проверку? "
 
 #: templates/timed_exam/ready_to_submit.html:9
 msgid ""
@@ -1298,7 +1298,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"После отправки ответов на проверку вы получите оценку за экзамен.\n"
+"После отправки ответов на проверку вы получите оценку за работу.\n"
 " "
 
 #: templates/timed_exam/ready_to_submit.html:19
@@ -1335,6 +1335,9 @@ msgid ""
 "                You have submitted your timed exam.\n"
 "            "
 msgstr ""
+"\n"
+"Вы отправили свою работу. \n"
+"            "
 
 #: templates/timed_exam/submitted.html:21
 msgid ""
